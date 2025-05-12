@@ -9,6 +9,7 @@ ANOTACIONES TRABAJO CALENDARIO DSM.
   Por ahora estoy estudiando el uso de AsyncStorage y a ver cómo resulta ¿Se guarda en local de forma permanente?
   He hecho la prueba y usando el AsyncStorage podemos guardar tareas (esa es la prueba básica que he hecho, donde pones el nombre de tarea y le das a CREAR TAREA y te crea algo básico para confirmar que funciona).
   Usaremos AsyncStorage para que todo se quede guardado en local. A futuro podemos valorar que se conecte al google calendar o algo por el estilo.
+  Escribo esto como prueba porque hay algun problema con el pull request.
 
   * Nota: A futuro convendría tomar la "traducción al español" desde alguna librería y no como pone en la documentación de hardcodear los días de la semana y meses.
           Tengo que estudiar bien dónde se guarda esta info y cómo gestionarla apropiadamente cuando metamos mucha información de tarea, evento etc.
